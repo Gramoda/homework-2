@@ -1,0 +1,74 @@
+.container {
+    width: 1400px;
+	margin: 0 auto;
+	text-align: center;
+}
+.awesome {
+    width: 100%;
+    text-align: center;
+}
+.awesomeHead {
+text-align: center;
+margin-top: 100px;
+font-family: 'Times New Roman', Times, serif;
+}
+.awesomeHead hr{
+   border: none;
+   margin-top: 30px;
+   background-color: orange;
+   width: 64px;
+   height: 2px ;
+}
+.awesomeHead p
+{
+    margin-top: 30px;
+}
+.cards{
+    display: flex;
+    justify-content: space-between;
+    margin: 80px auto;
+    text-align: center;
+}
+.imgDesign{
+    margin: auto;
+    width: 70px;
+    height: 70px;
+    border: 2px solid orange;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.imgCrafted{
+    margin: auto;
+    width: 70px;
+    height: 70px;
+    border: 2px solid orange;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.imgCustomize{
+    margin: auto;
+    width: 70px;
+    height: 70px;
+    border: 2px solid orange;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.cards p{
+    margin-top: 25px;
+
+}
+
+.cards h3{
+    margin-top: 20px;
+}
+
+
+img{
+    margin: auto;
+}   
